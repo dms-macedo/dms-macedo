@@ -13,7 +13,9 @@
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,docker,git,linux&theme=dark" alt="Tecnologias que utilizo" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dms-macedo&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dms-macedo&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=C9D1D9" height="150" alt="Linguagens mais utilizadas" />
-</p>
+<div align="center">
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=dms-macedo&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/dms-macedo)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dms-macedo&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9)](https://github.com/dms-macedo)
+
+</div>
